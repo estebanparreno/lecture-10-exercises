@@ -43,6 +43,8 @@ img_url <- results_img$response$images$url
 # Wrap the above steps in a function that takes a band as a parameter, and returns the desired info
 ```
 
+'r print(fav)'
+
 'r fav'
 
 'r text'
